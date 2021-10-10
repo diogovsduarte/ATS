@@ -1,0 +1,8 @@
+[ Use "y"
+, Decl "x"
+, [ Decl "y"
+    , Use "x"
+    , Decl "y"
+]
+, Use "x"
+]
